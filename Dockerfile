@@ -1,5 +1,5 @@
 # Use Node with Chrome pre-installed
-FROM ghcr.io/puppeteer/puppeteer:latest
+FROM ghcr.io/puppeteer/puppeteer:24.15.0
 
 # Set working directory
 WORKDIR /app
